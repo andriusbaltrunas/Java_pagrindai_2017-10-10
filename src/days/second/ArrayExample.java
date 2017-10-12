@@ -21,6 +21,8 @@ public class ArrayExample {
         reverse(mas);
     }
 
+
+
     //[12,2,3,5,1] -> [1,5,3,2,12]
     private static void reverse(int[] mas){
         int[] temp = new int[mas.length];
